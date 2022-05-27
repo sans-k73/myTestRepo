@@ -1,5 +1,6 @@
 object Demo {
    def main(args: Array[String]) {
-      4 times println("hello, how are you !")
+      println("hello, how are you !")
+      println("I am fine !")
    }
 }
